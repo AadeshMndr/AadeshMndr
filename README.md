@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Aadesh Manandhar
 
-Welcome to my Github Profile. I'm a full stack developer and a cloud enthusiast ! I'm passionate about developing web, mobile applications, and have been deeply interested in the computer networking side for the past year.
+Welcome to my Github Profile. I'm passionate about developing web, mobile applications, and have been deeply interested in the computer networking side for the past year.
 
 ## 🌱 Currently Learning
 
